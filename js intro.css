@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.feild{
+    width: 80em;
+    padding: 1em 2em; 
+   
+}
+.form-description{
+    margin: 15em;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+label{
+    width: 16em;
+    height: 1em;
+}
+input,textarea{
+    width: 60em;
+    padding: 1em 2em;
+    border-radius: 0.6em;
+}

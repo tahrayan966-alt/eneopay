@@ -1,0 +1,10 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 12px;
+}
+p:first-letter{
+    text-transform: capitalize;
+}
+
